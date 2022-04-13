@@ -1,3 +1,4 @@
 {
-  "name": "@fernker-fake-library"
+  "name": "@fernker-fake-library",
+  "lokaliseTag": "fakeLibrary"
 }
