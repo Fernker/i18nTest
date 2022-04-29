@@ -20,7 +20,7 @@ jobs:
           repo: Fernker/i18nTest2
           token: ${{ secrets.ACCESS_TOKEN}}
           ref: ${{github.ref}}
-          inputs: '{"message": "${{ github.event.pull_request.head.sha }}"}' 
+          inputs: '{"message": "${{ github.event.issue.pull_request.url }}"}' 
 #      - name: Invoke i18n script
 #        uses: peter-evans/repository-dispatch@v2
 #        with:
