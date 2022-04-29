@@ -1,0 +1,18 @@
+on:
+  pull_request:
+    types: [opened]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: khan/pull-request-comment-trigger@v1.1.0
+        id: check
+        with:
+          trigger: '@i18n'
+          #reaction: rocket
+      - run: 'echo hooray'
+         if: steps.check.outputs.triggered == 'true'
