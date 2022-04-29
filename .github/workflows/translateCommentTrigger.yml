@@ -13,6 +13,5 @@ jobs:
         id: check
         with:
           trigger: '@i18n'
-          #reaction: rocket
       - run: 'echo hooray'
          if: steps.check.outputs.triggered == 'true'
