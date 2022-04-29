@@ -1,0 +1,13 @@
+export { default as de_DE } from './de_DE.fakeLibrary2.i18n.json';
+export { default as en_US } from './en_US.fakeLibrary2.i18n.json';
+export { default as es_419 } from './es_419.fakeLibrary2.i18n.json';
+export { default as fr_FR } from './fr_FR.fakeLibrary2.i18n.json';
+export { default as it_IT } from './it_IT.fakeLibrary2.i18n.json';
+export { default as ja_JP } from './ja_JP.fakeLibrary2.i18n.json';
+export { default as ko_KR } from './ko_KR.fakeLibrary2.i18n.json';
+export { default as nl_NL } from './nl_NL.fakeLibrary2.i18n.json';
+export { default as pt_BR } from './pt_BR.fakeLibrary2.i18n.json';
+export { default as ru_RU } from './ru_RU.fakeLibrary2.i18n.json';
+export { default as tr_TR } from './tr_TR.fakeLibrary2.i18n.json';
+export { default as zh_CN } from './zh_CN.fakeLibrary2.i18n.json';
+export { default as zh_TW } from './zh_TW.fakeLibrary2.i18n.json';
