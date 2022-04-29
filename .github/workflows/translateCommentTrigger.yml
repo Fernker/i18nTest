@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.issue.pull_request }}
     steps:
+      - uses: hmarr/debug-action@v2
       - uses: khan/pull-request-comment-trigger@v1.1.0
         id: check
         with:
