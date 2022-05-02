@@ -1,4 +1,5 @@
 {
   "NEW_KEY": "value2",
-  "TEST": "This is cool if it works"
+  "TEST": "This is cool if it works",
+  "FAKE_KEY12323": "value2"
 }
