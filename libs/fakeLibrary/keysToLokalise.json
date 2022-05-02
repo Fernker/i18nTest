@@ -1,8 +1,4 @@
-
- {
-  "FOO_KEY": "FOO_VALUE",
-   "EXCITING": "ISNT IT",
-   "NEW_KEY": "value2",
-"TEST": "This is cool if it works",
-  "TEST2": "This is cool if it works2"
+{
+  "NEW_KEY": "value2",
+  "TEST": "This is cool if it works"
 }
