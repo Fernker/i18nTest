@@ -1,0 +1,13 @@
+export { default as de_DE } from './de_DE.i18nRepoLibrary.i18n.json';
+export { default as en_US } from './en_US.i18nRepoLibrary.i18n.json';
+export { default as es_419 } from './es_419.i18nRepoLibrary.i18n.json';
+export { default as fr_FR } from './fr_FR.i18nRepoLibrary.i18n.json';
+export { default as it_IT } from './it_IT.i18nRepoLibrary.i18n.json';
+export { default as ja_JP } from './ja_JP.i18nRepoLibrary.i18n.json';
+export { default as ko_KR } from './ko_KR.i18nRepoLibrary.i18n.json';
+export { default as nl_NL } from './nl_NL.i18nRepoLibrary.i18n.json';
+export { default as pt_BR } from './pt_BR.i18nRepoLibrary.i18n.json';
+export { default as ru_RU } from './ru_RU.i18nRepoLibrary.i18n.json';
+export { default as tr_TR } from './tr_TR.i18nRepoLibrary.i18n.json';
+export { default as zh_CN } from './zh_CN.i18nRepoLibrary.i18n.json';
+export { default as zh_TW } from './zh_TW.i18nRepoLibrary.i18n.json';
